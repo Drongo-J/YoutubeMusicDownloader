@@ -1,0 +1,16 @@
+C:\Users\Hafiz\source\repos\Visual Studio 2022 New Files\DownloadVideo\bin\Debug\DownloadVideo.exe.config
+C:\Users\Hafiz\source\repos\Visual Studio 2022 New Files\DownloadVideo\bin\Debug\DownloadVideo.exe
+C:\Users\Hafiz\source\repos\Visual Studio 2022 New Files\DownloadVideo\bin\Debug\DownloadVideo.pdb
+C:\Users\Hafiz\source\repos\Visual Studio 2022 New Files\DownloadVideo\bin\Debug\FFmpeg.AutoGen.dll
+C:\Users\Hafiz\source\repos\Visual Studio 2022 New Files\DownloadVideo\bin\Debug\libvideo.dll
+C:\Users\Hafiz\source\repos\Visual Studio 2022 New Files\DownloadVideo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hafiz\source\repos\Visual Studio 2022 New Files\DownloadVideo\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Hafiz\source\repos\Visual Studio 2022 New Files\DownloadVideo\bin\Debug\FFmpeg.AutoGen.xml
+C:\Users\Hafiz\source\repos\Visual Studio 2022 New Files\DownloadVideo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Hafiz\source\repos\Visual Studio 2022 New Files\DownloadVideo\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Hafiz\source\repos\Visual Studio 2022 New Files\DownloadVideo\obj\Debug\DownloadVideo.csproj.AssemblyReference.cache
+C:\Users\Hafiz\source\repos\Visual Studio 2022 New Files\DownloadVideo\obj\Debug\DownloadVideo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hafiz\source\repos\Visual Studio 2022 New Files\DownloadVideo\obj\Debug\DownloadVideo.csproj.CoreCompileInputs.cache
+C:\Users\Hafiz\source\repos\Visual Studio 2022 New Files\DownloadVideo\obj\Debug\DownloadVideo.csproj.CopyComplete
+C:\Users\Hafiz\source\repos\Visual Studio 2022 New Files\DownloadVideo\obj\Debug\DownloadVideo.exe
+C:\Users\Hafiz\source\repos\Visual Studio 2022 New Files\DownloadVideo\obj\Debug\DownloadVideo.pdb
